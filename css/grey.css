@@ -1,0 +1,33 @@
+/* GREY COLOR SCHEME */
+
+.button {
+    margin: .75rem .06rem .75rem .06rem;
+    padding: .55rem 1.25rem;
+    background-color: #666668;
+    color: #fff;
+}
+
+.button:hover {
+    background-color: #000;
+}
+
+a {
+    color: #414142;    
+}
+
+a:hover {
+    color: #a0a0aa;    
+}
+
+.border {
+    background-color: #d9d9dd;
+    margin: 25px 0;
+}
+
+.white-background {
+    background-color: #fff;    
+}
+
+.sidebar {
+    background-color: #d9d9dd; 
+}
